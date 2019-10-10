@@ -5,7 +5,7 @@ support talib TA
 
 ## install
 ```
-npm install -g git+https://github.com/fmzquant/backtest_javascript.git
+npm install git+https://github.com/fmzquant/backtest_javascript.git
 ```
 
 ## simple example
