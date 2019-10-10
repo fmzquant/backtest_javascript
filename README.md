@@ -31,6 +31,6 @@ The config string can be generated automatically by saving the backtest configur
 
 ![meta](https://www.fmz.com/upload/asset/aa67494fc6306759753385bf7634ee4cd437f3f2.png) 
  
-## documentation
+## api
 https://www.fmz.com/api
 
